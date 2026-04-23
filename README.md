@@ -1,4 +1,4 @@
-# U.S. County-Level Obesity Trends & Socioeconomic Risk Factor Analysis 📊
+# U.S. County-Level Obesity Trends & Socioeconomic Risk Factor Analysis
 
 ## Objective
 This repository contains a data analysis project exploring the relationship between socioeconomic risk factors and public health outcomes across United States counties. The primary goal is to investigate how financial demographics and local food environments correlate with adult obesity rates, transforming raw demographic data into actionable public health insights.
